@@ -1,0 +1,191 @@
+#EXTM3U
+#EXTINF:-1,HRT 1
+http://www.nasatv.eu:80/live?channelId=2&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,HRT 2
+http://www.nasatv.eu:80/live?channelId=3&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,Pink Comedy
+http://www.nasatv.eu:80/live?channelId=4&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,Pink Premium
+http://www.nasatv.eu:80/live?channelId=5&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,Pink World
+http://www.nasatv.eu:80/live?channelId=6&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,RTS Satelit
+http://www.nasatv.eu:80/live?channelId=8&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,BHT 1
+http://www.nasatv.eu:80/live?channelId=9&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,TK
+http://www.nasatv.eu:80/live?channelId=10&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,Lukavac
+http://www.nasatv.eu:80/live?channelId=11&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,RTS 1
+http://www.nasatv.eu:80/live?channelId=12&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,RTS 2
+http://www.nasatv.eu:80/live?channelId=13&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,RTL HRVATSKA
+http://www.nasatv.eu:80/live?channelId=14&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,RTL 2
+http://www.nasatv.eu:80/live?channelId=15&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,ARENA SPORT 1
+http://www.nasatv.eu:80/live?channelId=16&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,ARENA SPORT 2
+http://www.nasatv.eu:80/live?channelId=17&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,ARENA SPORT 3
+http://www.nasatv.eu:80/live?channelId=18&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,ARENA SPORT 4
+http://www.nasatv.eu:80/live?channelId=19&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,SOS TV
+http://www.nasatv.eu:80/live?channelId=20&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,FACE TV
+http://www.nasatv.eu:80/live?channelId=21&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,PINK 
+http://www.nasatv.eu:80/live?channelId=22&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,PINK 2
+http://www.nasatv.eu:80/live?channelId=23&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,PINK 3
+http://www.nasatv.eu:80/live?channelId=24&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,Pink Trailler
+http://www.nasatv.eu:80/live?channelId=25&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,Pink Crime & mystery
+http://www.nasatv.eu:80/live?channelId=26&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,Pink ROMANCE
+http://www.nasatv.eu:80/live?channelId=27&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,Pink Sci-fi & Fantasy
+http://www.nasatv.eu:80/live?channelId=28&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,Pink Plus
+http://www.nasatv.eu:80/live?channelId=29&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,Pink Horor
+http://www.nasatv.eu:80/live?channelId=31&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,Pink Sapunice
+http://www.nasatv.eu:80/live?channelId=32&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,Ne znam 33
+http://www.nasatv.eu:80/live?channelId=33&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,Pink Reality
+http://www.nasatv.eu:80/live?channelId=34&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,Pink Hits 2
+http://www.nasatv.eu:80/live?channelId=35&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,Pink Koncert
+http://www.nasatv.eu:80/live?channelId=36&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,Pink BH
+http://www.nasatv.eu:80/live?channelId=38&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,BN Music
+http://www.nasatv.eu:80/live?channelId=39&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,Mreža - TV 1
+http://www.nasatv.eu:80/live?channelId=40&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,EuroSport
+http://www.nasatv.eu:80/live?channelId=42&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,EuroSport 2
+http://www.nasatv.eu:80/live?channelId=43&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,Hayat HD
+http://www.nasatv.eu:80/live?channelId=44&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,Hayat Plus
+http://www.nasatv.eu:80/live?channelId=45&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,Hayat Folk
+http://www.nasatv.eu:80/live?channelId=46&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,Hayatovci
+http://www.nasatv.eu:80/live?channelId=47&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,FTV
+http://www.nasatv.eu:80/live?channelId=48&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,DM SAT
+http://www.nasatv.eu:80/live?channelId=49&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,Al Jazeera Balkan
+http://www.nasatv.eu:80/live?channelId=50&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,Fight Network
+http://www.nasatv.eu:80/live?channelId=52&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,K3 Sat
+http://www.nasatv.eu:80/live?channelId=53&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,OBN
+http://www.nasatv.eu:80/live?channelId=54&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,RTRS
+http://www.nasatv.eu:80/live?channelId=55&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,Pink Western
+http://www.nasatv.eu:80/live?channelId=56&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,Pink Style
+http://www.nasatv.eu:80/live?channelId=57&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,Pink Fashion
+http://www.nasatv.eu:80/live?channelId=58&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,Pink Kids
+http://www.nasatv.eu:80/live?channelId=61&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,Pink Zabava
+http://www.nasatv.eu:80/live?channelId=62&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,Pink Film
+http://www.nasatv.eu:80/live?channelId=63&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,Pink Action
+http://www.nasatv.eu:80/live?channelId=64&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,Pink Family
+http://www.nasatv.eu:80/live?channelId=65&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,Pink Folk 2
+http://www.nasatv.eu:80/live?channelId=69&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,Pink Extra
+http://www.nasatv.eu:80/live?channelId=70&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,KCN 3
+http://www.nasatv.eu:80/live?channelId=73&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,KCN 1
+http://www.nasatv.eu:80/live?channelId=74&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,BN
+http://www.nasatv.eu:80/live?channelId=75&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,Duga +
+http://www.nasatv.eu:80/live?channelId=76&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,PTV
+http://www.nasatv.eu:80/live?channelId=77&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,K3 Sat
+http://www.nasatv.eu:80/live?channelId=78&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,Pink Clasic
+http://www.nasatv.eu:80/live?channelId=80&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,HRT 3
+http://www.nasatv.eu:80/live?channelId=83&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,Sport Klub 1
+http://www.nasatv.eu:80/live?channelId=87&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,Sport Klub 2
+http://www.nasatv.eu:80/live?channelId=88&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,Hayat Music
+http://www.nasatv.eu:80/live?channelId=90&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,FOX
+http://www.nasatv.eu:80/live?channelId=91&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,National Geographic Channel
+http://www.nasatv.eu:80/live?channelId=92&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,National Geographic Wild
+http://www.nasatv.eu:80/live?channelId=93&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,Nova Tv
+http://www.nasatv.eu:80/live?channelId=94&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,24 Kitchen
+http://www.nasatv.eu:80/live?channelId=96&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,Ne znam 98
+http://www.nasatv.eu:80/live?channelId=98&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,Sport Klub 3
+http://www.nasatv.eu:80/live?channelId=101&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,Happz Tv
+http://www.nasatv.eu:80/live?channelId=105&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,Alternativna @
+http://www.nasatv.eu:80/live?channelId=106&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,Viasat History
+http://www.nasatv.eu:80/live?channelId=107&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,Viasat Explorer
+http://www.nasatv.eu:80/live?channelId=108&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,B92 Info
+http://www.nasatv.eu:80/live?channelId=110&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,Alfa Tv
+http://www.nasatv.eu:80/live?channelId=111&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,Pink Wolrd Cinema
+http://www.nasatv.eu:80/live?channelId=112&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,Pink Serije
+http://www.nasatv.eu:80/live?channelId=113&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,Pink Kuvar
+http://www.nasatv.eu:80/live?channelId=114&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,Pink Show
+http://www.nasatv.eu:80/live?channelId=116&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,Box Nation
+http://www.nasatv.eu:80/live?channelId=125&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,ITV
+http://www.nasatv.eu:80/live?channelId=132&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,ITV 2
+http://www.nasatv.eu:80/live?channelId=133&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,Ne znam 136
+http://www.nasatv.eu:80/live?channelId=136&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,Ne znam 137
+http://www.nasatv.eu:80/live?channelId=137&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,Ne znam 138
+http://www.nasatv.eu:80/live?channelId=138&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,FOX
+http://www.nasatv.eu:80/live?channelId=139&uid=7&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,Al Jazeera English
+http://www.nasatv.eu:80/live?channelId=140&uid=7&deviceUser=dm800&devicePass=dm800
